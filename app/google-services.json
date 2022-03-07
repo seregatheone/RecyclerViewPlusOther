@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991836287085",
+    "project_id": "marathonsignin-c96a8",
+    "storage_bucket": "marathonsignin-c96a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991836287085:android:08dcaba6e942e2f43d0f64",
+        "android_client_info": {
+          "package_name": "com.example.a12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991836287085-b38dmtfj3tdh483l4tmdcp7qmi5gc0ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA5AJ8fu70s_vAK-mepSb5HCVEmD_sxjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991836287085-b38dmtfj3tdh483l4tmdcp7qmi5gc0ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
